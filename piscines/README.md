@@ -12,7 +12,7 @@ students, without teachers. It can be done, and it works.
 
 ## List of Piscines
 
-* [C Piscine](c/)
-* [C++ Piscine](c++/)
-* [PHP Piscine](php/)
-* [Starfleet](starfleet/)
+* [C Piscine](https://github.com/jraleman/42_Piscine-C)
+* [C++ Piscine](https://github.com/jraleman/42_Piscine-CPP)
+* [PHP Piscine](https://github.com/jraleman/42_Piscine-PHP)
+* [Starfleet](https://github.com/jraleman/42_Piscine-Starfleet)

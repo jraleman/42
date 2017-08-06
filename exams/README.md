@@ -11,5 +11,5 @@ the same level, but without getting the full marks.
 
 ### List
 
-* [C Exam - Beginner](path-to-c-exam/)
-* [Starfleet Exam](path-to-starfleet-exam/)
+* [C Exam - Beginner](https://github.com/jraleman/42_Exam-C)
+* [Starfleet Exam](https://github.com/jraleman/42_Exam-Starfleet)

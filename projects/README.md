@@ -8,24 +8,23 @@ As of now, it includes:
 ### List
 
 * General
-	- [libft](libft/)
-	- [fillit](fillit/)
-	- [get_next_line](get_next_line/)
+	- [libft](https://github.com/jraleman/42_Libft)
+	- [fillit](https://github.com/jraleman/42_Fillit)
+	- [get_next_line](https://github.com/jraleman/42_get_next_line)
 
 * Graphics
-	- [fdf](fdf/)
-	- [fractol](fractol/)
-	- [wolf3D](wolf3d/)
+	- [fdf](https://github.com/jraleman/42_FDF/)
+	- [fractol](https://github.com/jraleman/42_Fractol/)
+	- [wolf3D](https://github.com/jraleman/42_Wolf3d/)
 
 * Algorithm
-	- [ft_printf](ft_printf/)
+	- [ft_printf](https://github.com/jraleman/42_ft_printf/)
 
 * Group
-	- [rushes](rushes/)
-	- [ft_db](ft_db/)
-	- [kift](kift/)
+	- [rushes](https://github.com/jraleman/42_Rushes/)
+	- [ft_db](https://github.com/jraleman/42_ft_db/)
+	- [kift](https://github.com/jraleman/42_Kift/)
 
 * Miscellaneous
-	- [dashes](dashes/)
-	- [hercules](hercules/)
-	- [harrasment policy](harrasment_policy/)
+	- [dashes](https://github.com/jraleman/42_Dashes/)
+	- [hercules](https://github.com/jraleman/42_Hercules/)
