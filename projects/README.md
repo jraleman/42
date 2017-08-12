@@ -29,7 +29,7 @@ As of now, it includes:
 	- [dashes](https://github.com/jraleman/42_Dashes/)
 	- [hercules](https://github.com/jraleman/42_Hercules/)
 
-#### To be Completed
+* **[!] To be Completed**
 
 	- [lem-in](https://github.com/jraleman/42_Lem-in/)
 	- [mod1](https://github.com/jraleman/42_Mod1/)
