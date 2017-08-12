@@ -28,3 +28,13 @@ As of now, it includes:
 * Miscellaneous
 	- [dashes](https://github.com/jraleman/42_Dashes/)
 	- [hercules](https://github.com/jraleman/42_Hercules/)
+
+#### To be Completed
+
+	- [lem-in](https://github.com/jraleman/42_Lem-in/)
+	- [mod1](https://github.com/jraleman/42_Mod1/)
+	- [RTV1](#)
+	- [Docker-1](#)
+	- [ft_ls](#)
+	- [minishell](#)
+	- [Reverse Game of Life](#)
