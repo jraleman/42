@@ -33,8 +33,5 @@ As of now, it includes:
 
 	- [lem-in](https://github.com/jraleman/42_Lem-in/)
 	- [mod1](https://github.com/jraleman/42_Mod1/)
-	- [RTV1](#)
-	- [Docker-1](#)
-	- [ft_ls](#)
-	- [minishell](#)
-	- [Reverse Game of Life](#)
+	- [Docker-1](https://github.com/jraleman/42_Docker-1/)
+	- [minishell](https://github.com/jraleman/42_Minishell/)
