@@ -24,6 +24,15 @@ the skills they contain, like:
 * Personal Development and Expression
 * Entrepreneurship
 
+## Download
+
+Just run the following command:
+
+`git clone --recursive https://github.com/jraleman/Ecole_42_Silicon-Valley.git`
+
+This will clone the repository, plus all the submodules,
+the projects, the piscines, and the exams.
+
 ## License
 
 *The content of this repository itself is licensed under the Creative Commons
