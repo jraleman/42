@@ -33,6 +33,6 @@ As of now, it includes:
 
 	- [lem-in](https://github.com/jraleman/42_Lem-in/)
 	- [mod1](https://github.com/jraleman/42_Mod1/)
-	- [Docker-1](https://github.com/jraleman/42_Docker-1/)
+	- [docker-1](https://github.com/jraleman/42_Docker-1/)
 	- [ft_ls](https://github.com/jraleman/42_ft_ls/)
 	- [minishell](https://github.com/jraleman/42_Minishell/)
