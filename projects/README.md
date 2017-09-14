@@ -19,6 +19,7 @@ As of now, it includes:
 
 * Algorithm
 	- [ft_printf](https://github.com/jraleman/42_ft_printf/)
+	- [lem-in](https://github.com/jraleman/42_Lem-in/)
 
 * Group
 	- [rushes](https://github.com/jraleman/42_Rushes/)
@@ -28,10 +29,10 @@ As of now, it includes:
 * Miscellaneous
 	- [dashes](https://github.com/jraleman/42_Dashes/)
 	- [hercules](https://github.com/jraleman/42_Hercules/)
+	- [walkin_marvin](https://github.com/jraleman/42_Walkin_Marvin/)
 
 * **[!] To be Completed**
 
-	- [lem-in](https://github.com/jraleman/42_Lem-in/)
 	- [mod1](https://github.com/jraleman/42_Mod1/)
 	- [docker-1](https://github.com/jraleman/42_Docker-1/)
 	- [ft_ls](https://github.com/jraleman/42_ft_ls/)
