@@ -26,16 +26,16 @@
 # 42 Piscines Repositories                                                     #
 # ---------------------------------------------------------------------------- #
 
-[submodule "piscines/c-piscine"]
-    path = piscines/c-piscine
+[submodule "piscines/piscine-c"]
+    path = piscines/piscine-c
     url = https://github.com/jraleman/42_Piscine-C/
 
-[submodule "piscines/cpp-piscine"]
-    path = piscines/cpp-piscine
+[submodule "piscines/piscine-cpp"]
+    path = piscines/piscine-cpp
     url = https://github.com/jraleman/42_Piscine-CPP/
 
-[submodule "piscines/starfleet-piscine"]
-    path = piscines/starfleet-piscine
+[submodule "piscines/piscine-starfleet"]
+    path = piscines/piscine-starfleet
     url = https://github.com/jraleman/42_Piscine-Starfleet/
 
 # [!] To be completed
@@ -109,6 +109,10 @@
 [submodule "projects/hercules"]
     path = projects/hercules
     url = https://github.com/jraleman/42_Hercules/
+
+[submodule "projects/walking_marvin"]
+    path = projects/walking_marvin
+    url = https://github.com/jraleman/42_Walking_Marvin/
 
 # [!] To be completed
 
