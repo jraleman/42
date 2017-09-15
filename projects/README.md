@@ -29,7 +29,7 @@ As of now, it includes:
 * Miscellaneous
 	- [dashes](https://github.com/jraleman/42_Dashes/)
 	- [hercules](https://github.com/jraleman/42_Hercules/)
-	- [walkin_marvin](https://github.com/jraleman/42_Walkin_Marvin/)
+	- [walking_marvin](https://github.com/jraleman/42_Walking_Marvin/)
 
 * **[!] To be Completed**
 
