@@ -72,8 +72,8 @@
     path = projects/fractol
     url = https://github.com/jraleman/42_Fractol/
 
-[submodule "projects/wolf3D"]
-    path = projects/wolf3D
+[submodule "projects/wolf3d"]
+    path = projects/wolf3d
     url = https://github.com/jraleman/42_Wolf3d/
 
 # Algorithm
