@@ -28,7 +28,7 @@ the skills they contain, like:
 
 Just run the following command:
 
-`git clone --recursive https://github.com/jraleman/Ecole_42_Silicon-Valley.git`
+`git clone --recursive https://github.com/jraleman/42_Silicon-Valley.git`
 
 This will clone the repository, plus all the submodules,
 the projects, the piscines, and the exams.
