@@ -1,4 +1,4 @@
-# École 42
+# 42 School Silicon Valley
 
 ![42 Logo](files/resources/42-logo.png)
 

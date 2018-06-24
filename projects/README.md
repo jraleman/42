@@ -1,4 +1,4 @@
-# École 42
+# 42 School Silicon Valley
 
 ## Projects
 
