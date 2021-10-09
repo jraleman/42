@@ -34,6 +34,15 @@ Just run the following command:
 This will clone the repository, plus all the submodules,
 the projects, the piscines, and the exams.
 
+## Support
+
+All my projects are free to read/clone on GitHub. I don't expect anyone to support me,
+but if you want, I really appreciate it from the bottom of my heart. ❤️
+
+<img alt="qrcode" src="https://user-images.githubusercontent.com/11222980/136663961-d09d6901-8106-4758-aeaa-5883b89c8726.png" style="height: 300px; width: auto;" />
+
+^ You can scan the code abover if you would like to support me with one amount, and I thank you in advance.
+
 ## License
 
 *The content of this repository itself is licensed under the Creative Commons
